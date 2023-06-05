@@ -2,7 +2,7 @@ baseURL = 'https://www.hugomenezes.com.br/'
 languageCode = 'pt-br'
 title = 'Segue por ali'
 theme = 'ananke'
-googleAnalytics=375773216
+googleAnalytics="UA-64684663-1"
 
 [[params.ananke_socials]]
 name = "twitter"
