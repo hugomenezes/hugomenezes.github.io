@@ -1,4 +1,9 @@
-baseURL = 'http://example.org/'
-languageCode = 'en-us'
-title = 'My New Hugo Site'
+baseURL = 'https://www.hugomenezes.com.br/'
+languageCode = 'pt-br'
+title = ''
 theme = 'ananke'
+googleAnalytics=375773216
+
+[[params.ananke_socials]]
+name = "twitter"
+url = "https://twitter.com/hugomenezes"
