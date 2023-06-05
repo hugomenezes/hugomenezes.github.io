@@ -29,7 +29,7 @@ defaults:
 
 jobs:
   # Build job
-  build:
+  buil  d:
     runs-on: ubuntu-latest
     env:
       HUGO_VERSION: 0.111.3
