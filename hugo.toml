@@ -1,9 +1,0 @@
-baseURL = 'https://www.hugomenezes.com.br/'
-languageCode = 'pt-br'
-title = 'Segue por ali'
-theme = 'ananke'
-googleAnalytics="UA-64684663-1"
-
-[[params.ananke_socials]]
-name = "twitter"
-url = "https://twitter.com/hugomenezes"
