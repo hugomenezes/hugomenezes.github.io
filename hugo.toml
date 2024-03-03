@@ -2,3 +2,7 @@ baseURL = 'https://example.org/'
 languageCode = 'en-us'
 title = 'My New Hugo Site'
 theme = 'ananke'
+
+services:
+  googleAnalytics:
+    ID: G-88X2LKWJJG
